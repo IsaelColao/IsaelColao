@@ -3,7 +3,9 @@
 :[![Anurag's GitHub stats](https://github-readme-stats-jade-iota-70.vercel.app/api?username=IsaelColao&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats):  
 
 
-![Top Langs](https://github-readme-stats-jade-iota-70.vercel.app/api/top-langs/?username=IsaelColao&layout=compact)
+<div align="center">
+    <img src="https://github-readme-stats-jade-iota-70.vercel.app/api/top-langs/?username=IsaelColao&layout=compact" alt="Top Langs">
+</div>
 
 <!--
 **IsaelColao/IsaelColao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
